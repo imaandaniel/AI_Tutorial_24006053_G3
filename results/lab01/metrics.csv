@@ -1,0 +1,10 @@
+query_id,start,goal,algorithm,path,hops,path_cost_km,expanded,max_frontier,runtime_ms
+Q1,KUL,KEF,BFS,KUL -> AMS -> KEF,2,12274.31753,284,1679,11.8248
+Q1,KUL,KEF,DFS,KUL -> ADL -> CNS -> GUM -> CTS -> HIJ -> DLC -> CGO -> BAV -> NAY -> HLD -> COQ -> ULN -> FRU -> CEK -> EVN -> AER -> KIV -> BLQ -> ACE -> BFS -> DBV -> BGO -> KEF,23,41767.82328,2112,859,12.9265
+Q1,KUL,KEF,UCS,KUL -> HKT -> LED -> HEL -> KEF,4,11461.34858,1851,616,15.7787
+Q2,SIN,EZE,BFS,SIN -> AMS -> EZE,2,21976.10802,233,1629,6.514500001
+Q2,SIN,EZE,DFS,SIN -> ADL -> CNS -> GUM -> CTS -> HIJ -> DLC -> CGO -> BAV -> NAY -> HLD -> COQ -> ULN -> FRU -> ALA -> GYD -> ASB -> BHX -> ABZ -> BGO -> BLL -> AAL -> AAR -> BMA -> MMX -> BEG -> ATH -> AMM -> ADE -> ASM -> JUB -> ADD -> ACC -> ABJ -> CKY -> OXB -> RAI -> BOS -> ATL -> EZE,39,65213.83567,904,858,6.7724
+Q2,SIN,EZE,UCS,SIN -> JNB -> GRU -> EZE,3,17817.35625,3002,620,16.6727
+Q3,NRT,CPT,BFS,NRT -> AMS -> CPT,2,19005.89377,173,1727,5.695999999
+Q3,NRT,CPT,DFS,NRT -> AKL -> PER -> HKT -> CKG -> CGO -> BAV -> CIF -> HLD -> COQ -> NZH -> IKT -> ABA -> NSK -> AER -> EVN -> ATH -> ADB -> ADA -> EBL -> GOT -> AAR -> AAL -> BLL -> AHO -> AOI -> CTA -> BRI -> CAG -> KRK -> BFS -> ACE -> BIO -> IBZ -> BRN -> OLB -> BOD -> AJA -> AVN -> LIG -> SOU -> JER -> DSA -> KTW -> KUT -> DOK -> DWC -> AMD -> BLR -> CCJ -> AAN -> PEW -> DSK -> PZH -> UET -> MHD -> MED -> AHB -> ADE -> ASM -> JUB -> ADD -> ACC -> WDH -> CPT,64,91541.43196,1414,785,6.2386
+Q3,NRT,CPT,UCS,NRT -> HKG -> MRU -> CPT,3,14813.31926,3042,1018,16.6198
