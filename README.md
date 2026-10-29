@@ -17,7 +17,7 @@
 | | Submission - [benchmark.csv](results/lab03/benchmark.csv) |
 | | Submission - [benchmark_summary.csv](results/lab03/benchmark_summary.csv) |
 | | Submission - [benchmark_expansions.png](results/lab03/benchmark_expansions.png) |
-| 2026/10/21 | Lab 04 - [Fuzzy Logic and ANFIS (code)](all_experiments/lab04_fuzzy_anfis.py) |
+| 2026/10/23 | Lab 04 - [Fuzzy Logic and ANFIS (code)](all_experiments/lab04_fuzzy_anfis.py) |
 | | Submission - [temperature_humidity.png](results/lab04/temperature_humidity.png) |
 | | Submission - [fuzzy_memberships.png](results/lab04/fuzzy_memberships.png) |
 | | Submission - [fuzzy_fixed_points.csv](results/lab04/fuzzy_fixed_points.csv) |
