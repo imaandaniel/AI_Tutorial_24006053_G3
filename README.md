@@ -25,3 +25,9 @@
 | | Submission - [split.csv](results/lab04/split.csv) |
 | | Submission - [metrics.csv](results/lab04/metrics.csv) |
 | | Submission - [predicted_vs_actual.png](results/lab04/predicted_vs_actual.png) |
+| 2026/10/30 | Lab 05 - [Robotics Sensor Control (code)](all_experiments/lab05_robotics_sensor_control.py) |
+| | Submission - [metrics.csv](results/lab05/metrics.csv) |
+| | Submission - [feature_scores.csv](results/lab05/feature_scores.csv) |
+| | Submission - [rule_controller.txt](results/lab05/rule_controller.txt) |
+| | Submission - [confusion_matrices.png](results/lab05/confusion_matrices.png) |
+| | Submission - [noise_robustness.png](results/lab05/noise_robustness.png) |
