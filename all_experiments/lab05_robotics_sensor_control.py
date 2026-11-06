@@ -62,7 +62,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--results",
         type=Path,
-        default=Path.cwd() / "results" / "lab05",
+        default=script_dir.parent / "results" / "lab05",
         help="Directory where CSV reports, rules, and plots will be saved.",
     )
     return parser.parse_args()
