@@ -38,3 +38,17 @@
 | | Submission - [preprocessed images](results/lab06/preprocessed) |
 | | Evidence - [sample_grid.png](results/lab06/sample_grid.png) |
 | | Evidence - [ocr_failures.png](results/lab06/ocr_failures.png) |
+| | Assignment - [Lab06_OCR_Assignment_imaandaiel.pdf](Lab06_Assignment/Lab06_OCR_Assignment_imaandaniel.pdf) |
+| | Evidence - [sample_grid.png](Lab06_Assignment/evidence/sample_grid.png) |
+| | Evidence - [ocr_failures.png](Lab06_Assignment/evidence/ocr_failures.png) |
+| 2026/11/13 | Lab 07 - [Airline Tweet Sentiment Classification (code)](all_experiments/lab07_airline_sentiment.py) |
+| | Submission - [split.csv](results/lab07/split.csv) |
+| | Submission - [validation_results.csv](results/lab07/validation_results.csv) |
+| | Submission - [metrics.csv](results/lab07/metrics.csv) |
+| | Submission - [per_class_metrics.csv](results/lab07/per_class_metrics.csv) |
+| | Submission - [test_predictions.csv](results/lab07/test_predictions.csv) |
+| | Submission - [per_airline_f1.csv](results/lab07/per_airline_f1.csv) |
+| | Submission - [error_analysis.csv](results/lab07/error_analysis.csv) |
+| | Evidence - [confusion_matrix.png](results/lab07/confusion_matrix.png) |
+| | Assignment - [AI_Assignment_imaandaniel.pdf](Assignment_Reasoning_Semantic_NLP\AI_Assigment_imaandaniel.pdf) |
+| | Evidence - [semantic_network.png](Assignment_Reasoning_Semantic_NLP/semantic_network.png) |
