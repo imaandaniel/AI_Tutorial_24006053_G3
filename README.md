@@ -36,7 +36,7 @@
 | | Submission - [predictions.csv](results/lab06/predictions.csv) |
 | | Submission - [error_analysis.csv](results/lab06/error_analysis.csv) |
 | | Submission - [preprocessed images](results/lab06/preprocessed) |
-| | Assignment - [Lab06_OCR_Assignment_imaandaiel.pdf](Lab06_Assignment/Lab06_OCR_Assignment_imaandaniel.pdf) |
+| | Assignment - [Lab06_OCR_Assignment_imaandaniel.pdf](Lab06_Assignment/Lab06_OCR_Assignment_imaandaniel.pdf) |
 | | Evidence - [sample_grid.png](Lab06_Assignment/evidence/sample_grid.png) |
 | | Evidence - [ocr_failures.png](Lab06_Assignment/evidence/ocr_failures.png) |
 | 2026/11/13 | Lab 07 - [Airline Tweet Sentiment Classification (code)](all_experiments/lab07_airline_sentiment.py) |
