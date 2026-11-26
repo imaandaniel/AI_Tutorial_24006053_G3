@@ -50,3 +50,11 @@
 | | Submission - [confusion_matrix.png](results/lab07/confusion_matrix.png) |
 | | Assignment - [AI_Assignment_imaandaniel.pdf](Assignment_Reasoning_Semantic_NLP\AI_Assigment_imaandaniel.pdf) |
 | | Evidence - [semantic_network.png](Assignment_Reasoning_Semantic_NLP/semantic_network.png) |
+| 2026/11/20 | Lab 08 - [Genetic Algorithm Regression (code)](all_experiments/lab08_genetic_algorithm_regression.py) |
+| | Submission - [split.csv](results/lab08/split.csv) |
+| | Submission - [ga_10_runs.csv](results/lab08/ga_10_runs.csv) |
+| | Submission - [convergence.png](results/lab08/convergence.png) |
+| | Submission - [ga_sensitivity_pop40.csv](results/lab08/ga_sensitivity_pop40.csv) |
+| | Submission - [summary.csv](results/lab08/summary.csv) |
+| | Assignment - [Genetic_Algorithm_Assignment.pdf](GA%20Assignment/Genetic_Algorithm_Assignment.pdf) |
+| | Assignment - [Code Part C.py](GA%20Assignment/Code%20Part%20C.py) |
